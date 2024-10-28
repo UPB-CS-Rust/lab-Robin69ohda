@@ -16,7 +16,8 @@ fn main() {
 
 ///`create_string()` no longer takes `s: String` as argument
 fn create_string() -> String {
-    let s0 = String::new();
+    let mut s0 = String::new();
+    s0.push_str("Hello ");
     s0
     
 }
