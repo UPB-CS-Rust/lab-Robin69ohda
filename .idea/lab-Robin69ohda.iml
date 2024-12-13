@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/2-foundations-of-rust/3-advanced-syntax/5-boxed-data/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-foundations-of-rust/4-traits-and-generics/1-local-storage-vec/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/2-foundations-of-rust/3-advanced-syntax/5-boxed-data/target" />
+      <excludeFolder url="file://$MODULE_DIR$/2-foundations-of-rust/4-traits-and-generics/1-local-storage-vec/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
